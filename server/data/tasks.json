@@ -1,0 +1,62 @@
+{
+  "active": [
+    {
+      "id": "1791177857963-0",
+      "title": "Pay electricity bill",
+      "dueDate": "Today",
+      "priority": "High",
+      "createdAt": "2026-10-05T05:24:17.963Z",
+      "completedAt": null
+    },
+    {
+      "id": "1791177857963-3",
+      "title": "Read Sanduni's book",
+      "dueDate": "No date",
+      "priority": "Low",
+      "createdAt": "2026-10-05T05:24:17.963Z",
+      "completedAt": null
+    },
+    {
+      "id": "1791177830600-0",
+      "title": "Call Kasun",
+      "dueDate": "Tomorrow",
+      "priority": "High",
+      "createdAt": "2026-10-05T05:23:50.600Z",
+      "completedAt": null
+    },
+    {
+      "id": "1791177830600-2",
+      "title": "Buy Printer Paper",
+      "dueDate": "Tomorrow",
+      "priority": "Medium",
+      "createdAt": "2026-10-05T05:23:50.600Z",
+      "completedAt": null
+    },
+    {
+      "id": "1791177605235-0",
+      "title": "Create YouTube video",
+      "dueDate": "Tomorrow",
+      "priority": "High",
+      "createdAt": "2026-10-05T05:20:05.235Z",
+      "completedAt": null
+    }
+  ],
+  "completed": [
+    {
+      "id": "1791177830600-1",
+      "title": "Send Supplier Invoice",
+      "dueDate": "Tomorrow",
+      "priority": "Medium",
+      "createdAt": "2026-10-05T05:23:50.600Z",
+      "completedAt": "2026-10-05T05:24:43.129Z"
+    },
+    {
+      "id": "1791177876041-0",
+      "title": "Buy milk",
+      "dueDate": "Today",
+      "priority": "High",
+      "createdAt": "2026-10-05T05:24:36.041Z",
+      "completedAt": "2026-10-05T05:24:41.596Z"
+    }
+  ]
+}
